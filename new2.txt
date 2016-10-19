@@ -1,0 +1,1 @@
+this is a new2.txt to find out why 'git diff' is not working

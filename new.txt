@@ -1,2 +1,5 @@
 hahaah
 add second line at 13:59,2016-10-19 while listening to 'Zombie'
+add a third line to test commend 'git diff'
+add a 4th line to test commend 'git diff'
+while the 4th line is add to the file, the file is not add to the index, 'git diff' finally worked!
